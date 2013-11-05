@@ -2,7 +2,7 @@
 
   Author: Matthaeus Krenn
 	Website: http://matthaeuskrenn.com
-	Date: May 2013
+	Date: May 1st 2013
 	Description: springTo.js makes spring-physics-based movement of elements on websites
 	             accessible to anyone via one simplest possible line of code.
 	             while not ready for prime-time, it's a handy tool to simple protoype
